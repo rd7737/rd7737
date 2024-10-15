@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Rahul Das
-#### I am a Web & App Developer from India
-(https://drive.google.com/file/d/1bAwkb-ffq0LB2_9VkRPI7WRjO4pB_RVp/view?usp=sharing)
+#### THINK CODE DEVELOP
+![THINK CODE DEVELOP](https://pbs.twimg.com/profile_banners/1846204773223354368/1729004809/1500x500)
 
 As an app and web developer, I specialize in creating intuitive, responsive, and feature-rich applications and websites. I excel in combining functionality with clean design, delivering seamless user experiences across platforms with a focus on performance, scalability, and innovation.
 
